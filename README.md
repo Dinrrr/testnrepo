@@ -1,2 +1,2 @@
 # testnrepo
-creating a testn repo for demo use
+used in september of 2015 fall semester.
